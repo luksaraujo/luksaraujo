@@ -5,7 +5,7 @@ Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, sou um desenvolve
 
 💼 Analista de Suporte Técnico Trilíngue;
 
-💻 Aprendendo e me aprofundando em JS, Angular, NodeJS, CSS e TS;
+💻 Aprendendo e me aprofundando em JS, Angular, NodeJS, CSS, TS, Python e C#;
 
 ✅ Disposto a ajudar todo tipo de pessoa, sem distinções de gênero etc, a estudarem tecnologia e desenvolvimento de sistemas!
 
