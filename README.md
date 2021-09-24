@@ -1,13 +1,13 @@
 # Olá! Bem-vindo(a) ao meu Hub! 👋
-Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, sou um desenvolvedor web front-end full stack. Confira algumas outras informações logo abaixo:
+Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, sou um desenvolvedor Python e React Native. Confira algumas outras informações logo abaixo:
 
 🎓 Ciência da Computação;
 
-💼 Analista de Suporte Técnico Trilíngue;
+💼 Technology Services Intern at SoftwareONE BR;
 
-💻 Aprendendo e me aprofundando em JS, Angular, NodeJS, CSS, TS, Python e C#;
+💻 Aprendendo e me aprofundando em Python, Azure, HCL e React Native;
 
-✅ Disposto a ajudar todo tipo de pessoa, sem distinções de gênero etc, a estudarem tecnologia e desenvolvimento de sistemas!
+✅ Disposto a ajudar todo tipo de pessoa a estudar tecnologia e desenvolvimento de sistemas!
 
 📍 São Paulo;
 
