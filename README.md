@@ -9,6 +9,7 @@ Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ci
 ## Estatísticas e Especificações Técnicas ⚙
 
 <div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luksaraujo&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksaraujo&count_private=true&show_icons=true&theme=onedark&layout=compact&hide=less,hack&locale=pt-br" />
 </div>
   
