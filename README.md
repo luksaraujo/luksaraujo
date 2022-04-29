@@ -1,12 +1,12 @@
-# Olá! Eu sou o Lucas Araújo! 👋
+# Olá! Eu sou o Lucas Araújo! 🤗
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lucasarasouza/)
 
-## Sobre mim 🤓
+## Sobre mim 😁
 
 Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ciência da Computação na Faculdade Impacta de Tecnologia! Comecei minha carreira de T.I. trabalhando com suporte técnico bilíngue para componentes de hardware e migrei para cloud computing, atuando diretamente com infraestrutura em cloud com o Microsoft Azure. Atuo em projetos de migração de infraestruturas e ambientes para a nuvem. Além disso, sou desenvolvedor Python e React Native nas horas vagas.
 
-## Estatísticas e Especificações Técnicas ⚙
+## Estatísticas e Especificações Técnicas 📊
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luksaraujo&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"/>
