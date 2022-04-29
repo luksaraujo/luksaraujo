@@ -6,6 +6,12 @@
 
 Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ciência da Computação na Faculdade Impacta de Tecnologia! Comecei minha carreira de T.I. trabalhando com suporte técnico bilíngue para componentes de hardware e migrei para cloud computing, atuando diretamente com infraestrutura em cloud com o Microsoft Azure. Atuo em projetos de migração de infraestruturas e ambientes para a nuvem. Além disso, sou desenvolvedor Python e React Native nas horas vagas.
 
+## Estatísticas e Especificações Técnicas ⚙
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksaraujo&count_private=true&show_icons=true&theme=onedark&layout=compact&hide=less,hack&locale=pt-br" />
+</div>
+  
 ## Minhas certificações 🏆
 
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/c8ebb189-3d26-4497-b771-a6dacb6b6fe9 "Microsoft Certified: Azure Fundamentals")
