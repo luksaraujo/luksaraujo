@@ -30,4 +30,8 @@ Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ci
 <a href="#"><img src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=f54d27"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/></a>
-
+<a href="#"><img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=e92e30"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=f16428"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=3799d6"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7e118"/></a>
+<a href="#"><img src="https://img.shields.io/badge/React%20Native-informational?style=flat&logo=react&logoColor=white&color=3799d6"/></a>
