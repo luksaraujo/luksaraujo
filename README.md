@@ -24,10 +24,10 @@ Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ci
 
 ## Tecnologias e ferramentas 🚀
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4"/>
-  <img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=000000"/>
-  <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=f54d27"/>
-  <img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC"/>
-  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
-</a>
+
+<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=000000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=f54d27"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/></a>
+
