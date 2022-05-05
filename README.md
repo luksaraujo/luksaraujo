@@ -9,8 +9,10 @@ Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ci
 ## Estatísticas e Especificações Técnicas 📊
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luksaraujo&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksaraujo&count_private=true&show_icons=true&theme=onedark&layout=compact&hide=less,hack&locale=pt-br" />
+  <a href="#">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luksaraujo&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksaraujo&count_private=true&show_icons=true&theme=onedark&layout=compact&hide=less,hack&locale=pt-br" />
+  </a>
 </div>
   
 ## Minhas certificações 🏆
@@ -19,3 +21,13 @@ Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ci
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/cc297207-b9da-4a09-a2b1-2170c5eaa933 "Microsoft Certified: Azure Administrator Associate")
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/110x110/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/5f7e9d94-d9c7-47f2-9579-9ac231df8f1f "Microsoft Certified: Azure Network Engineer Associate")
 [![Microsoft Certified Trainer 2021-2022](https://images.credly.com/size/110x110/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)](http://www.credly.com/badges/030574a7-86b8-4757-bc58-78f4d25e607e "Microsoft Certified Trainer 2021-2022")
+
+## Tecnologias e ferramentas 🚀
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4"/>
+  <img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=f54d27"/>
+  <img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC"/>
+  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
+</a>
