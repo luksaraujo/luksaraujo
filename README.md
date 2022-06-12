@@ -21,9 +21,9 @@ Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ci
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/cc297207-b9da-4a09-a2b1-2170c5eaa933 "Microsoft Certified: Azure Administrator Associate")
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/110x110/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/5f7e9d94-d9c7-47f2-9579-9ac231df8f1f "Microsoft Certified: Azure Network Engineer Associate")
 [![Microsoft Certified Trainer 2021-2022](https://images.credly.com/size/110x110/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)](http://www.credly.com/badges/030574a7-86b8-4757-bc58-78f4d25e607e "Microsoft Certified Trainer 2021-2022")
+[![CCNA CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/dc188fbe-d370-4f3a-bdbf-b2c9454541db "CyberOps Associate")
 
 ## Tecnologias e ferramentas 🚀
-
 
 <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=000000"/></a>
