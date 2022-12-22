@@ -24,6 +24,7 @@ Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ci
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/b93d04f2-14c4-438d-861b-94e6cf095426 "Microsoft Certified: Azure Solutions Architect Expert")
 [![Microsoft Certified: Azure Virtual Desktop Specialty](https://images.credly.com/size/110x110/images/ea009208-e2d6-432e-bbf6-d34d28b0835f/azure-virtual-desktop-specialty-600x600.png)](http://www.credly.com/badges/c4051ea4-6fbd-4320-a1b9-38be63edd45f "Microsoft Certified: Azure Virtual Desktop Specialty")
 [![Microsoft Certified Trainer 2021-2022](https://images.credly.com/size/110x110/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)](http://www.credly.com/badges/030574a7-86b8-4757-bc58-78f4d25e607e "Microsoft Certified Trainer 2021-2022")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/31dff02e-0685-479f-8b9c-318b108430d9 "AWS Certified Cloud Practitioner")
 [![CCNA CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/dc188fbe-d370-4f3a-bdbf-b2c9454541db "CyberOps Associate")
 
 ## Tecnologias e ferramentas 🚀
