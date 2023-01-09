@@ -10,8 +10,8 @@ Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ci
 
 <div>
   <a href="#">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luksaraujo&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksaraujo&count_private=true&show_icons=true&theme=onedark&layout=compact&hide=less,hack&locale=pt-br" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luksaraujo&show_icons=true&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksaraujo&langs_count=10&layout=compact&theme=algolia" />
   </a>
 </div>
   
