@@ -43,3 +43,6 @@ Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ci
 <a href="#"><img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=3799d6"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7e118"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React%20Native-informational?style=flat&logo=react&logoColor=white&color=3799d6"/></a>
+
+# 👩🏻‍💻 Minhas últimas atividades 
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=luksaraujo&theme=onedark&compact=true)](https://github.com/luksaraujo/luksaraujo)
