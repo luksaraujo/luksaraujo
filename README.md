@@ -4,7 +4,7 @@
 
 ## Sobre mim 😁
 
-Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ciência da Computação na Faculdade Impacta de Tecnologia! Comecei minha carreira de T.I. trabalhando com suporte técnico bilíngue para componentes de hardware e migrei para cloud computing, atuando diretamente com infraestrutura em cloud com o Microsoft Azure. Atuo em projetos de migração de infraestruturas e ambientes para a nuvem. Além disso, sou desenvolvedor Python e React Native nas horas vagas.
+Olá, eu sou o **Lucas Araújo**! Nascido e morando no Brasil, estou cursando Ciência da Computação na Faculdade Impacta de Tecnologia! Comecei minha carreira de T.I. trabalhando com suporte técnico bilíngue para componentes de hardware e migrei para cloud computing, atuando diretamente com infraestrutura em cloud com o Microsoft Azure. Atuo em projetos de migração e modernização de infraestruturas e ambientes para a nuvem. Além disso, sou desenvolvedor Python e React Native nas horas vagas.
 
 ## Estatísticas e Especificações Técnicas 📊
 
